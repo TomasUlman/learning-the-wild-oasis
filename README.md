@@ -34,41 +34,6 @@ Funkční build je dostupný zde:
 Projekt běží na Supabase free verzi, která má automatické uspávání po týdnu neaktivity.
 Pokud si chcete aplikaci projít v plně funkční podobě (login, data, CRUD), napište mi a backend případně aktivuji.
 
-📁 Struktura projektu
-
-Zjednodušený přehled:
-
-src/
-App.jsx
-main.jsx
-GlobalStyles.js
-
-context/
-DarkModeContext.jsx
-
-services/
-supabase.js
-apiAuth.js
-apiCabins.js
-apiBookings.js
-apiSettings.js
-
-features/
-bookings/
-cabins/
-dashboard/
-settings/
-users/
-authentication/
-
-ui/
-Button.jsx
-ButtonGroup.jsx
-Modal.jsx
-Spinner.jsx
-Table.jsx
-...
-
 🛠 Použité technologie
 
 React + Vite
